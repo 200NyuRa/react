@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "K_Nura",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.15.3"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
